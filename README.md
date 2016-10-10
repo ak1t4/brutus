@@ -6,6 +6,8 @@ Attack entire network /24 -> in seconds!
 
 Author: ak1t4
 
+Twitter: twitter.com/knowledge_2014
+
 Email: know.0nix@gmail.com
 
 @2015
