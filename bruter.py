@@ -29,7 +29,7 @@ ______            _              _____ _____ _   _
      
     Bomber Threads for nuts!
 
-    by Lucas Moreira  [know.0nix@gmail.com] - 2015 
+    by Ak1t4 [adeveloper870@gmail.com] - 2015 
 
 
     Usage: ./bruter.py user-dic.txt password-dic.txt 127.0.0.0 remote-command
@@ -117,7 +117,7 @@ ______            _              _____ _____ _   _
                                                                                                                                         
 Bomber Threads for nuts!
 
-by Lucas Moreira  [know.0nix@gmail.com] - 2015 
+by Ak1t4  [adeveloper870@gmail.com] - 2015 
 
 
 Usage: ./bruter.py user-dic.txt password-dic.txt 127.0.0.0 remote-command
